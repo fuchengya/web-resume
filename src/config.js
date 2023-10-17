@@ -89,10 +89,10 @@ export default {
     image: 'box3.jpg',
     href: 'https://shopping.fuchengya.com'
   }, {
-    title: '智慧美食向导',
-    content: 'uniapp开发的微信小程序',
+    title: '浮城音乐网',
+    content: '用Vue开发的一个在线音乐平台',
     image: 'box5.jpg',
-    href: 'https://cdn.xiamu.icu/foodApplets.jpg'
+    href: 'https://music.fuchengya.com/'
   }],
   // page6部分
   page6: {
